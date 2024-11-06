@@ -1,0 +1,3 @@
+[submodule "my_box_bot_description"]
+	path = my_box_bot_description
+	url = https://github.com/kailash197/my_box_bot_description.git
