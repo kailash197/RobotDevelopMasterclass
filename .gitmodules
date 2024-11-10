@@ -4,3 +4,6 @@
 [submodule "citylab_project"]
 	path = citylab_project
 	url = https://github.com/kailash197/citylab_project.git
+[submodule "my_box_bot_gazebo"]
+	path = my_box_bot_gazebo
+	url = https://github.com/kailash197/my_box_bot_gazebo.git
